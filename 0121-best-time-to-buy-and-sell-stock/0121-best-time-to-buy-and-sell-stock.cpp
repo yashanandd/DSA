@@ -9,6 +9,6 @@ public:
             }
             min_value = min(min_value,prices[i]);
         }
-        return max_Profit>0?max_Profit:0;
+        return max_Profit;
     }
 };
