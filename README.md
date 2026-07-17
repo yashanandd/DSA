@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yashanandd/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/yashanandd/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yashanandd/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/yashanandd/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashanandd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashanandd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashanandd/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/yashanandd/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashanandd/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/yashanandd/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
