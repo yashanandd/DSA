@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashanandd/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/yashanandd/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashanandd/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/yashanandd/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yashanandd/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/yashanandd/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/yashanandd/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashanandd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashanandd/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/yashanandd/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashanandd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yashanandd/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
