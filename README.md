@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/yashanandd/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashanandd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashanandd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/yashanandd/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashanandd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashanandd/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/yashanandd/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/yashanandd/DSA/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/yashanandd/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/yashanandd/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/yashanandd/DSA/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashanandd/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
