@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yashanandd/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yashanandd/DSA/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/yashanandd/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashanandd/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashanandd/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/yashanandd/DSA/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/yashanandd/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashanandd/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/yashanandd/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashanandd/DSA/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/yashanandd/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1518-water-bottles](https://github.com/yashanandd/DSA/tree/master/1518-water-bottles) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/yashanandd/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
