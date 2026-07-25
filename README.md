@@ -100,10 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashanandd/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/yashanandd/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashanandd/DSA/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashanandd/DSA/tree/master/0020-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/yashanandd/DSA/tree/master/1518-water-bottles) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
