@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashanandd/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/yashanandd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashanandd/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/yashanandd/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashanandd/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashanandd/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashanandd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashanandd/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/yashanandd/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/yashanandd/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
