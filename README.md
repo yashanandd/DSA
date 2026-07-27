@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashanandd/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashanandd/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/yashanandd/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yashanandd/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashanandd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yashanandd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/yashanandd/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashanandd/DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/yashanandd/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yashanandd/DSA/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yashanandd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yashanandd/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yashanandd/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
