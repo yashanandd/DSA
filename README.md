@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashanandd/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/yashanandd/DSA/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
 |  |
 | ------- |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yashanandd/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashanandd/DSA/tree/master/0503-next-greater-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yashanandd/DSA/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yashanandd/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
